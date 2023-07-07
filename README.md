@@ -35,6 +35,13 @@ Pada Case ketiga, pengguna ingin mengganti nama barang mie menjadi indomie
 Didalam Case keempat, pengguna menambahkan beberapa barang sekaligus seperti:
 * 10 Ekor Ayam @28000
 * 20 Buah Teh Botol @4500
+
 ![Screenshot_4](https://github.com/museeuu/simplecashier/assets/80741974/29d6d1fa-115c-43f0-8de1-eb62440cfb37)
+
+#### Case 5
+Pada Case kelima, pengguna akan membayar belanjaannya
+
+![Screenshot_5](https://github.com/museeuu/simplecashier/assets/80741974/e2db5553-3a95-4306-bab7-6e99b549d99f)
+
 
 
